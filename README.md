@@ -15,3 +15,14 @@ AI如果走的步数多了也会出错，但偶尔也能打败玩家<br/>
 
 <p textcolor="red">请在终端中运行，如果在其他环境中运行，有些字符可能会无法对齐，请手动修改</p>
 <font size="12px" color="red">字体</font>
+<p>
+<font size="2" face="Verdana">
+This is a paragraph.
+</font>
+</p>
+
+<p>
+<font size="3" face="Times">
+This is another paragraph.
+</font>
+</p>
